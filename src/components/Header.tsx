@@ -2,13 +2,13 @@
 
 const Header = () => {
   return (
-   <header className="bg-red-400 absolute h-20 w-full flex justify-between ">
+   <header  >
 
 
-   <section  >
+   <section className="bg-red-400 absolute h-20 w-full flex justify-between " >
 
-<p>header start</p>
-<p>header end</p>
+<p>Acorn Technology</p>
+<p>Sign Up   Sign Out</p>
    
     </section>
   
